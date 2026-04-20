@@ -68,12 +68,12 @@ An autonomous soil moisture monitoring system powered by solar energy — monito
 
 ## 🤝 Soft Skills
 
-- **Technical Presentation** — Presented hardware projects to faculty and class
-- **Team Collaboration** — Worked in group projects involving task division and coordination
-- **Documentation** — Written project reports covering circuit design, components, and working
-- **Peer Communication** — Explained technical concepts to classmates in simpler terms
-- **Methodical Approach** — Plan circuits and logic before building or coding
-- **Debugging** — Patiently trace and fix faults in circuits and code rather than guessing
+- **Technical Presentation** : Presented hardware projects to faculty and class
+- **Team Collaboration** : Worked in group projects involving task division and coordination
+- **Documentation** : Written project reports covering circuit design, components, and working
+- **Peer Communication** : Explained technical concepts to classmates in simpler terms
+- **Methodical Approach** : Plan circuits and logic before building or coding
+- **Debugging** : Patiently trace and fix faults in circuits and code rather than guessing
 
 ---
 
